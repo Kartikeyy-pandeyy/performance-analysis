@@ -1,4 +1,31 @@
-# Performance Benchmarks
+# Performance Analysis of Docker Container and Virtual Machines
+
+## Abstract
+Virtualization plays a crucial role in cloud and DevOps environments, where selecting the right technology is key to optimizing application performance. This research evaluates Docker containers and virtual machines (VMs) using four critical performance metrics: CPU processing, disk input/output (I/O), database operations, and web server throughput. While both technologies provide application isolation, their distinct architectural designs lead to differing performance outcomes.
+
+Docker containers, characterized by their minimal overhead and rapid startup times, demonstrate superior performance in CPU-intensive and I/O-bound tasks, making them well-suited for cloud-native applications. Conversely, VMs, with their dedicated resource allocation, deliver consistent performance under heavy workloads, excelling in large-scale database operations. Furthermore, the study highlights Docker's advantage in scalability and responsiveness for database and web server activities, whereas VMs maintain a steady edge in environments demanding robust isolation.
+
+This comprehensive analysis provides valuable insights into the trade-offs between containers and virtual machines, assisting administrators in making informed decisions tailored to their infrastructure requirements.
+
+## Authors
+**Ritika Sharma**  
+School of CSET, Bennett University (The Times Group), Greater Noida, India  
+Email: [cheimonas31@gmail.com](mailto:cheimonas31@gmail.com)
+
+**Kartikey Pandey**  
+School of CSET, Bennett University (The Times Group), Greater Noida, India  
+Email: [kartikeyy.pandeyy@gmail.com](mailto:kartikeyy.pandeyy@gmail.com)
+
+**Lakshya Deewan**  
+School of CSET, Bennett University (The Times Group), Greater Noida, India  
+Email: [e22cseu1012@bennett.edu.in](mailto:e22cseu1012@bennett.edu.in)
+
+**Aditya Bhardwaj**  
+School of CSET, Bennett University (The Times Group), Greater Noida, India  
+Email: [aditya.bhardwaj@bennett.edu.in](mailto:aditya.bhardwaj@bennett.edu.in)
+
+## Performance Benchmarks
+This research compares Docker containers and Virtual Machines (VMs) in the context of several performance benchmarks across different categories. Below are the results for the benchmark metrics:
 
 ## Database Server
 
@@ -82,3 +109,6 @@
 |                           | Memory Usage (MB)                  | 317.64    | 380                       |
 |                           | Threads Used                        | 1         | 1                         |
 |                           | MiB                                | 6.457     | 6.2                       |
+## Conclusion
+This study provides a detailed comparison of Docker containers and Virtual Machines, highlighting their respective strengths and trade-offs. Docker containers offer faster performance for CPU and I/O-bound tasks, making them ideal for scalable cloud-native applications. On the other hand, Virtual Machines excel in resource isolation and stability under heavy workloads. Understanding these differences enables system administrators and engineers to choose the most suitable technology for their specific infrastructure needs, optimizing both performance and resource utilization.
+
