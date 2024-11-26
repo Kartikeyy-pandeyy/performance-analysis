@@ -8,13 +8,13 @@ Docker containers, characterized by their minimal overhead and rapid startup tim
 This comprehensive analysis provides valuable insights into the trade-offs between containers and virtual machines, assisting administrators in making informed decisions tailored to their infrastructure requirements.
 
 ## Authors
-**Ritika Sharma**  
-School of CSET, Bennett University (The Times Group), Greater Noida, India  
-Email: [cheimonas31@gmail.com](mailto:cheimonas31@gmail.com)
-
 **Kartikey Pandey**  
 School of CSET, Bennett University (The Times Group), Greater Noida, India  
 Email: [kartikeyy.pandeyy@gmail.com](mailto:kartikeyy.pandeyy@gmail.com)
+
+**Ritika Sharma**  
+School of CSET, Bennett University (The Times Group), Greater Noida, India  
+Email: [cheimonas31@gmail.com](mailto:cheimonas31@gmail.com)
 
 **Lakshya Deewan**  
 School of CSET, Bennett University (The Times Group), Greater Noida, India  
