@@ -121,7 +121,7 @@ This study provides a detailed comparison of Docker containers and Virtual Machi
 ### 🏆 **Conference Acceptance & Presentation**  
 This research paper, *"Comparative Performance Analysis of Docker Containers and Virtual Machines: A Comprehensive Evaluation,"* has been officially **accepted for presentation** at the **IEEE International Conference on Next Generation Information System Engineering (NGISE) 2025**, scheduled for **March 28–29, 2025**.  
 
-I will be attending the conference to **present this paper** and will receive a **certificate of presentation and participation** upon completion.  
+Our team will be attending the conference to **present this paper** and will receive a **certificate of presentation and participation** upon completion.  
 
 
 ---
