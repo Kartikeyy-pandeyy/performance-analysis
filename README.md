@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Performance%20Analysis-Docker%20vs%20VM-important?style=for-the-badge&color=red" alt="Performance Analysis">
   <img src="https://img.shields.io/badge/Cloud%20&%20Virtualization-Technologies-blueviolet?style=for-the-badge" alt="Cloud and Virtualization">
   <img src="https://img.shields.io/badge/Benchmarking-Database,%20I/O,%20CPU,%20Web-orange?style=for-the-badge" alt="Benchmarking">
-  <img src="https://img.shields.io/badge/Data%20Driven%20Results-Insights%20&%20Metrics-success?style=for-the-badge&color=green" alt="Data Driven Results">
 </p>
 
 
