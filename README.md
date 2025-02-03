@@ -1,11 +1,13 @@
 # 🚀 Performance Analysis of Docker Containers & Virtual Machines
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Virtualization-Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Virtualization-VM-red?style=for-the-badge&logo=vmware" alt="VM">
-  <img src="https://img.shields.io/badge/Cloud-Computing-green?style=for-the-badge&logo=cloudflare" alt="Cloud">
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Research-Study-Informational?style=for-the-badge&color=blue" alt="Research Study">
+  <img src="https://img.shields.io/badge/Performance%20Analysis-Docker%20vs%20VM-important?style=for-the-badge&color=red" alt="Performance Analysis">
+  <img src="https://img.shields.io/badge/Cloud%20&%20Virtualization-Technologies-blueviolet?style=for-the-badge" alt="Cloud and Virtualization">
+  <img src="https://img.shields.io/badge/Benchmarking-Database,%20I/O,%20CPU,%20Web-orange?style=for-the-badge" alt="Benchmarking">
+  <img src="https://img.shields.io/badge/Data%20Driven%20Results-Insights%20&%20Metrics-success?style=for-the-badge&color=green" alt="Data Driven Results">
 </p>
+
 
 ---
 
@@ -108,6 +110,12 @@ This research compares Docker containers and Virtual Machines (VMs) in the conte
 |                           | Memory Usage (MB)                  | 317.64    | 380                       |
 |                           | Threads Used                        | 1         | 1                         |
 |                           | MiB                                | 6.457     | 6.2                       |
+
+---
+
+
 ## Conclusion
 This study provides a detailed comparison of Docker containers and Virtual Machines, highlighting their respective strengths and trade-offs. Docker containers offer faster performance for CPU and I/O-bound tasks, making them ideal for scalable cloud-native applications. On the other hand, Virtual Machines excel in resource isolation and stability under heavy workloads. Understanding these differences enables system administrators and engineers to choose the most suitable technology for their specific infrastructure needs, optimizing both performance and resource utilization.
+
+---
 
