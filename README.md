@@ -1,28 +1,27 @@
-# Performance Analysis of Docker Container and Virtual Machines
+# 🚀 Performance Analysis of Docker Containers & Virtual Machines
 
-## Abstract
-Virtualization plays a crucial role in cloud and DevOps environments, where selecting the right technology is key to optimizing application performance. This research evaluates Docker containers and virtual machines (VMs) using four critical performance metrics: CPU processing, disk input/output (I/O), database operations, and web server throughput. While both technologies provide application isolation, their distinct architectural designs lead to differing performance outcomes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Virtualization-Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Virtualization-VM-red?style=for-the-badge&logo=vmware" alt="VM">
+  <img src="https://img.shields.io/badge/Cloud-Computing-green?style=for-the-badge&logo=cloudflare" alt="Cloud">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+</p>
 
-Docker containers, characterized by their minimal overhead and rapid startup times, demonstrate superior performance in CPU-intensive and I/O-bound tasks, making them well-suited for cloud-native applications. Conversely, VMs, with their dedicated resource allocation, deliver consistent performance under heavy workloads, excelling in large-scale database operations. Furthermore, the study highlights Docker's advantage in scalability and responsiveness for database and web server activities, whereas VMs maintain a steady edge in environments demanding robust isolation.
+---
 
-This comprehensive analysis provides valuable insights into the trade-offs between containers and virtual machines, assisting administrators in making informed decisions tailored to their infrastructure requirements.
+## 📌 Abstract
+> Virtualization plays a crucial role in cloud and DevOps environments. This research evaluates **Docker containers** and **Virtual Machines (VMs)** using four key performance metrics: **CPU processing, Disk I/O, Database operations, and Web server throughput**. Our study provides insights into the trade-offs between these technologies to help administrators make informed infrastructure decisions.
 
-## Authors
-**Kartikey Pandey**  
-School of CSET, Bennett University (The Times Group), Greater Noida, India  
-Email: [kartikeyy.pandeyy@gmail.com](mailto:kartikeyy.pandeyy@gmail.com)
+---
 
-**Ritika Sharma**  
-School of CSET, Bennett University (The Times Group), Greater Noida, India  
-Email: [cheimonas31@gmail.com](mailto:cheimonas31@gmail.com)
+## 👨‍💻 Authors
 
-**Lakshya Deewan**  
-School of CSET, Bennett University (The Times Group), Greater Noida, India  
-Email: [e22cseu1012@bennett.edu.in](mailto:e22cseu1012@bennett.edu.in)
-
-**Aditya Bhardwaj**  
-School of CSET, Bennett University (The Times Group), Greater Noida, India  
-Email: [aditya.bhardwaj@bennett.edu.in](mailto:aditya.bhardwaj@bennett.edu.in)
+| Name              | Institution & Email |
+|------------------|----------------------|
+| **Kartikey Pandey** | Bennett University, India <br> 📩 [kartikeyy.pandeyy@gmail.com](mailto:kartikeyy.pandeyy@gmail.com) |
+| **Ritika Sharma** | Bennett University, India <br> 📩 [cheimonas31@gmail.com](mailto:cheimonas31@gmail.com) |
+| **Lakshya Deewan** | Bennett University, India <br> 📩 [e22cseu1012@bennett.edu.in](mailto:e22cseu1012@bennett.edu.in) |
+| **Aditya Bhardwaj** | Bennett University, India <br> 📩 [aditya.bhardwaj@bennett.edu.in](mailto:aditya.bhardwaj@bennett.edu.in) |
 
 ## Performance Benchmarks
 This research compares Docker containers and Virtual Machines (VMs) in the context of several performance benchmarks across different categories. Below are the results for the benchmark metrics:
